@@ -1,0 +1,16 @@
+export const WELCOME = [
+    '👋 *Welcome to Krypton!*',
+    '',
+    '🤖 Your AI coding assistant for understanding and working with your codebase.',
+    '',
+    '*What I can do:*',
+    '🔍 /ask — Ask questions about your codebase',
+    '🛠️ /agent — Let the AI modify your codebase',
+    '📋 /plan — Create a step-by-step implementation plan',
+    '',
+    '*Quick Start:*',
+    'Send a command above to get started.',
+    '',
+    '💡 Example:',
+    '`/ask Where is authentication handled?`',
+].join('\n');
